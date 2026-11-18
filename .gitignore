@@ -1,0 +1,15 @@
+build/
+cmake-build-*/
+.qtcreator/
+*.user
+*.user.*
+CMakeCache.txt
+CMakeFiles/
+compile_commands.json
+Testing/
+*.o
+*.a
+*.so
+*.exe
+core
+core.*
